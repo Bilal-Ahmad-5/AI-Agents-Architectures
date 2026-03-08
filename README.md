@@ -1,4 +1,4 @@
-# 🤖 Agentic AI Architectures
+# 🤖 AI Agents Architectures
 
 > *Explore the cutting edge of autonomous AI - multi-agent systems, planning agents, research agents, and self-improving reflection agents, all in one place.*
 
